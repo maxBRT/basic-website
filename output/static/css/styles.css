@@ -127,7 +127,6 @@ main {
     justify-content: flex-start;
     align-items: center;
     width: 80%;
-    height: 20%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border: 1px solid var(--amber);
